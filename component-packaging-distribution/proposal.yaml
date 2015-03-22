@@ -1,0 +1,28 @@
+---
+Session:
+  Title: > Reusable Components in Angular JS: Packaging, Testing, and Distribution
+  Description: >
+    
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - components
+    - testing
+    - directives
+    - distribution
+
+Speaker:
+  name: Kara Erickson
+  twitter: karaforthewin
+  email: kerickson@opentable.com
+  bio: >
+    Kara is a Web Engineer at OpenTable where she builds Angular applications for 
+    OpenTable Restaurants. She has spent the last six months architecting a robust 
+    library of business-level and ui-level components founded on Angular directives.
+Speaker2:
+  name: Rachael Moore
+  twitter: morewry
+  email: rmoore@opentable.com
+  bio: >
+    Rachael is a UI Engineer at OpenTable specializing in the implementation of 
+    enterprise-scale interfaces using HTML, CSS, and JavaScript. She began as a 
+    freelance web designer in the 90's and previously worked at Homes.com. 
